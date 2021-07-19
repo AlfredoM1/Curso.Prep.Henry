@@ -1,0 +1,5 @@
+* Variables: Es un pequeño espacio donde se puede guardar una cosa de cualquier tipo.
+	* Strings: Son cadenas de letras que forman frases. Se deben escribir con comillas “ ”.
+	* Funciones (argumentos, `return`): es un proceso donde unas instrucciones  funcionan con algunos argumentos y dan un resultado.
+	* Declaraciones `if`: Es una suposición (comparación) para conocer si el valor de algo es uno u otro.
+	* Valores booleanos (`true`, `false`): Es para comparar una cosa: si esa cosa tiene lo que tú quieres, es verdadero, si no lo tiene, es falso.
