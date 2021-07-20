@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como
+ si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier
+  agujero en tu comprensión.
+
+* `for` : Te dan 20 legos para armar una torre. Conforme los armas, vas 
+        aumentando uno a uno los bloques. Como te dieron 20, cuando armas los 20 bloques, terminas tu torre.
+        Así funciona el ciclo for. Es un ciclo que se repite un numero de veces definidas y va aumentando de
+        1 en 1 o como tu le indiques.
+
+* `&&`: Para entrar a hacer un examen, necesitas tu ID y el comprobante de pago del examen.
+        Sólo puedes entrar si tienes las dos cosas, si te falta alguna... entonces no entras. Así funciona 
+        la instruccion AND (&&). Debe cumplir sus dos o mas condiciones que tenga.
+
+  `||`: Para pagar el estacionamiento de un supermercado debes hacerlo en un cajero automatico.
+        Tienes que pagar 20 pesos. El cajero acepta, monedas o billetes. Puedes pagar con una u otra.
+        Si no pagas, no puedes salir.
+        Así funciona el condicional OR (||) se debe cumplir una de sus condiciones para funcionar.
+
+  `!`: Sirve para invertir un dato. Si algo es verdadero, esto lo hace falso y viceversa
+
+
