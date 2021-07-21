@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+ cualquier agujero en tu comprensión.
+
+	* Arrays: Un arreglo es como una caja con muchos espacios numerados, donde puedes guardar cualquier cosa.
+    Puedes saber donde está cada cosa por el número de espacio donde lo guardaste para poder usarlo.
+    También puede ser como una sala de lockers o casilleros. Cada uno tiene un numero y puedes guardar en
+    el cualquier cosa que quieras. Para saber donde está, solo necesitas conocer el numero de casillero.
