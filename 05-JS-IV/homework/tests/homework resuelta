@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como
+ si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier
+  agujero en tu comprensión.
+
+	* Objetos: Son como avatares de un videojuego. Un personaje que puede tener las caracteristicas que
+    tu quieras.
+	* Propiedades: las propiedades son todas las caracteristicas que puede tener tu personaje, como su nombre,
+    edad, estatura, habilidades, etc.
+	* Métodos: Son los conocimientos y habilidades de tu personaje, como saltar, correr, esconderse, etc.
+	* Bucle `for…in`: siguiendo con el ejemplo del avatar del videojuego. El bucle for es como leer la ficha 
+    de habilidades y caracteristicas de tu avatar una a una.
+	* Notación de puntos vs notación de corchetes: siguiendo con el ejemplo de avatares de videojuego, sirve 
+    para darle instrucciones para que tu personaje haga algo, pero usando diferentes claves, por ejemplo:
+    avatar, salta ya! o salta ahora, avatar!. Ambas dicen lo mismo pero se escriben de diferente manera.
