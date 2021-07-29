@@ -1,0 +1,12 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+ como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente
+  cualquier agujero en tu comprensión.
+
+* `prototype`: es como un manual, donde se guardan ciertas instrcciones sobre algo. Ya hay algunas escritas,
+pero tu también puedes escribir las que consideres necesarias. Con esto se puede usar la herramienta de la 
+cual es el manual que se tiene
+* _Constructors_ (de Clases): Es como una plantilla para poder escribir algunos datos. Puedes poner datos de 
+nombre y edad de muchas personas, pero en vez de poner cada nombre y edad de cada persona, se pone una 
+plantilla para escribirlo una sola vez y usarlo con cada persona que se requiera
